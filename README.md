@@ -1,16 +1,16 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/naipofo/naipofo/master/mona-whisper.apng" width="30px"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Naipofo
+#### I'm studying programming in Poland. I love designing websites and front-end UI!
+## Contact me
+![Telegram Badge](https://img.shields.io/badge/-notmyname-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/notmynamae) ![Gmail Badge](https://img.shields.io/badge/-athenaheki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:athenaheki@gmail.com) [![saythanks](https://img.shields.io/badge/my-website-ff69b4.svg)](https://naipofo.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Programming Languages :** JavaScript 🌐 | Golang 🦔 
+-  **Learning :** Python 🐍
+-  **Hobbies :** Traveling 🚌 & Designing 🎨
+-  **I can speak :**  Polski 🇵🇱 |  English 🇬🇧 | 日本語 🇯🇵 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**naipofo/naipofo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=naipofo&show_icons=true&count_private=true&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⬇️ Here are some of my small [Projects](https://github.com/naipofo?tab=repositories):
