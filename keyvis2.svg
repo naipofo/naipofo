@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="300" role="img"
+    aria-label="notmyname">
+    <title>notmyname</title>
+    <style>
+        text {
+            font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+        }
+
+        g {
+            transform: translate(8px, 108px);
+            animation-name: winap;
+            animation-duration: 2s;
+        }
+        @keyframes winap{
+            0%{
+                opacity: 0;
+                transform: translate(60px, 108px);
+            }
+        }
+    </style>
+    <g>
+        <rect width="160" height="154" fill="#0d1117" rx="16" />
+        <path d="M0 16q0-16 16-16l98 0q16 0 16 16V32H0z" fill="#1f2125" />
+        <circle cx="16" cy="16" r="8" fill="#444952" />
+        <circle cx="40" cy="16" r="8" fill="#444952" />
+        <circle cx="64" cy="16" r="8" fill="#444952" />
+    </g>
+</svg>

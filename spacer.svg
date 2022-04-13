@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="40" role="img"
+    aria-label="notmyname">
+    <title>notmyname</title>
+    <style>
+        text{font-family: 'Roboto Mono', 'Courier New', Courier, monospace;}
+    </style>
+    <a target="_blank" xlink:href="https://t.me/notmynamae">
+        <rect width="20" height="40" fill="#0d1117" />
+    </a>
+</svg>
