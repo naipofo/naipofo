@@ -1,0 +1,2 @@
+table{border:1px solid black}.
+{background:#ddd;color:red}. |a|red|row|
