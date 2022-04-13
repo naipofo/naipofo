@@ -7,7 +7,7 @@
 ---
 
 ## Contact me
-![Telegram Badge](https://raw.githubusercontent.com/naipofo/naipofo/master/elegram.svg)![](https://raw.githubusercontent.com/naipofo/naipofo/master/spacer.svg)![Email Badge](https://raw.githubusercontent.com/naipofo/naipofo/master/gmail.svg)![](https://raw.githubusercontent.com/naipofo/naipofo/master/spacer.svg)![My website](https://raw.githubusercontent.com/naipofo/naipofo/master/website.svg)
+![Telegram Badge](https://raw.githubusercontent.com/naipofo/naipofo/master/telegram.svg)![](https://raw.githubusercontent.com/naipofo/naipofo/master/spacer.svg)![Email Badge](https://raw.githubusercontent.com/naipofo/naipofo/master/gmail.svg)![](https://raw.githubusercontent.com/naipofo/naipofo/master/spacer.svg)![My website](https://raw.githubusercontent.com/naipofo/naipofo/master/website.svg)
 
 ---
 
