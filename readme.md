@@ -6,7 +6,9 @@
 
 ## Contact me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naipofo/naipofo/master/links.svg">
+  <a href="https://t.me/notmynamae"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/telegram.svg"></a>
+  <a href="https://naipofo.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/website.svg"></a>
+  <a href="mailto:athenaheki@gmail.com"><img src="https://raw.githubusercontent.com/naipofo/naipofo/master/email.svg"></a>
 </p>
 
 ## About
